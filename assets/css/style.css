@@ -1,0 +1,80 @@
+body {
+    /* Establece márgenes y bordes cero para trabajar sólo con padding */
+    margin: 0;
+    border: 0;
+    /* Alineación centrada por defecto */
+    text-align: center;
+    /* Color de letras #FFFFFF por defecto */
+    color: #FFFFFF;
+    /* Familia de letras desde Google Fonts por defecto */
+    font-family: 'Marvel', sans-serif;
+    font-weight: 400;
+    
+}
+
+footer {
+    /* Class para elementos del pie de página */
+    font-size: xxx-large;
+    background-color: #000000;
+    font-family: 'Marvel', sans-serif;
+}
+
+.navbarspecifications {
+
+    font-size: 18px;
+    font-family: 'Marvel', sans-serif;
+    font-weight: 400;
+    color:#FFFFFF;
+    background-color: rgba(0, 0, 0, 0.883);
+    padding-inline-start: 1%;
+    padding-inline-end: 1%;
+
+}
+
+.superHeroimage {
+    padding-inline-start: 10%;
+    padding-inline-end: 10%;
+}
+
+.card {
+    align-content: center;
+    text-align: center;
+    font-family: 'Marvel', sans-serif;
+    font-weight: 700;
+}
+
+.card-title {
+
+    font-size:xxx-large;
+    text-align: center;
+    font-weight: 700;
+    font-weight: bold;
+    
+}
+
+.card-text {
+
+    font-size:medlargeium;
+    font-weight: 400;
+    font-weight: bold;
+    text-align: justify;
+
+}
+
+.card-header {
+    text-align: center;
+    font-weight: 700;
+    font-size: xx-large;
+
+}
+
+
+/*PERFECTO, ENTIENDO
+
+/* 
+ORDEN SUGERIDO :
+html>clases>ids
+
+
+super lo demas
+*/
